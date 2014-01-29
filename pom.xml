@@ -41,8 +41,9 @@
     </pluginRepositories>
     <repositories>
         <repository>
-            <id>rrd-repo</id>
-            <url>http://10.170.11.231/artifactory/repo</url>
+            <id>central</id>
+            <name>bintray</name>
+            <url>http://jcenter.bintray.com</url>
         </repository>
     </repositories>
 
